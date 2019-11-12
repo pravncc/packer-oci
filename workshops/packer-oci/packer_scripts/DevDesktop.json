@@ -5,6 +5,6 @@
       "my.availability_domain": "pasteYourAvailbilityDomain",
       "my.region": "us-ashburn-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaal6ga3cd4uaezzxjig6ysxjtmxorr5vx5s4e27bui6db4ravg2uwa",
-      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaa4y645upfwhjxqemzz4juxllu7wmx5ztiddhtb43j53gtttlckdxq",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
     }
